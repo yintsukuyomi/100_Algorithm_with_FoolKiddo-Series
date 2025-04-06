@@ -1,2 +1,12 @@
-# 100_Algorithm_with_FoolKiddo-Series
-In this series, I will explain algorithms in daily life and we will write sample codes and solve problems.
+# 100 Algorithms with FoolKiddo: *From Life to Logic* 🚀
+
+Welcome to a unique algorithmic adventure where daily life meets the power of code.  
+In this series, we’ll demystify real-world algorithms, design elegant solutions, and grow together through hands-on challenges and problem-solving.
+
+## 🎯 What to Expect
+- Real-life inspired algorithm scenarios
+- Step-by-step code implementations (Python & more)
+- Challenges to test your understanding
+- Clean, practical, and fun learning
+
+Let’s turn everyday logic into powerful code — one algorithm at a time.
