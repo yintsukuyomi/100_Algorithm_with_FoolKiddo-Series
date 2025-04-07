@@ -12,15 +12,15 @@ Best case: O(n²)
 Space Complexity: O(1) (in-place sorting)
 
 ## 🧠 Algorithm Steps:
-Start from the first element.
+1. Start from the first element.
 
-Find the smallest element in the remaining array.
+2. Find the smallest element in the remaining array.
 
-Swap it with the first unsorted element.
+3. Swap it with the first unsorted element.
 
-Move to the next position.
+4. Move to the next position.
 
-Repeat until the array is sorted.
+5. Repeat until the array is sorted.
 
 
 ## ✅ Real-Life Analogy: "Picking the Cheapest Product from a Shelf"
