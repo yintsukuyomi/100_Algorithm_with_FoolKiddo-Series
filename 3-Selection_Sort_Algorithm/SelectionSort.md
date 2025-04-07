@@ -1,0 +1,41 @@
+## ✅ What is Selection Sort?
+### Selection Sort is a simple comparison-based sorting algorithm.
+
+It works by repeatedly selecting the smallest (or largest) element from the unsorted portion of the list and swapping it with the first unsorted element.
+
+Time Complexity:
+
+Worst case: O(n²)
+
+Best case: O(n²)
+
+Space Complexity: O(1) (in-place sorting)
+
+## 🧠 Algorithm Steps:
+Start from the first element.
+
+Find the smallest element in the remaining array.
+
+Swap it with the first unsorted element.
+
+Move to the next position.
+
+Repeat until the array is sorted.
+
+
+## ✅ Real-Life Analogy: "Picking the Cheapest Product from a Shelf"
+
+Imagine you're at a store, trying to buy items in the **cheapest-to-most-expensive** order. All prices are visible, but the items are **randomly placed** on the shelf.
+
+---
+
+### 🔁 How would you do it manually?
+
+1. You scan the **entire shelf** and find the **cheapest item**.
+2. You take that item and **place it at the beginning** of your cart.
+3. Then, you look at the **remaining items**, find the next cheapest one, and place it in the **next position**.
+4. Repeat this process — **each time selecting the smallest** from the unsorted items — until all items are sorted in your cart.
+
+--- 
+
+You always **select** the minimum and move it to the correct position — that's the essence of **Selection Sort**.
