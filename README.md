@@ -1,4 +1,4 @@
-# 100 Algorithms with FoolKiddo: *From Life to Logic* 🚀
+# Algorithms with FoolKiddo: *From Life to Logic* 🚀
 
 > _"A Program is as Powerful as its Algorithm."_
 
