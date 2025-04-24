@@ -4,7 +4,7 @@
 2. [x] Binary Search Algorithm
 3. [x] Selection Sort Algorithm
 4. [x] Merge Sort Algorithm
-5. [ ] Quick Sort Algorithm
+5. [x] Quick Sort Algorithm
 6. [ ] Dijkstra Algorithm
 7. [ ] Depth First Research(DFS) Algorithm
 8. [ ] Breadth First Search(BFS) Algorithm
