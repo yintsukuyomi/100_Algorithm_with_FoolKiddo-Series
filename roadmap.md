@@ -6,7 +6,7 @@
 4. [x] Merge Sort Algorithm
 5. [x] Quick Sort Algorithm
 6. [x] Dijkstra Algorithm
-7. [ ] Depth First Research(DFS) Algorithm
+7. [x] Depth First Search(DFS) Algorithm
 8. [ ] Breadth First Search(BFS) Algorithm
 9. [ ] Insertion Sort Algorithm
 10. [ ] Floyd-Warshall Algorithm
@@ -54,3 +54,7 @@
 53. [ ] Cholesky Decomposition Algorithm
 54. [ ] Miller-Rabin Primality Test
 55. [ ] Fermat's Little Theorem
+56. [ ] Pollard'S Rho Algorithm
+57. [ ] AKS Primality Test
+58. [ ] Lucas-Lehmer Test
+59. [ ] Strassen's Algorithm
