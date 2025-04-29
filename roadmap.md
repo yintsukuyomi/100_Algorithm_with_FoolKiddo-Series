@@ -9,7 +9,7 @@
 7. [x] Depth First Search(DFS) Algorithm
 8. [x] Breadth First Search(BFS) Algorithm
 9. [x] Insertion Sort Algorithm
-10. [ ] Floyd-Warshall Algorithm
+10. [x] Floyd-Warshall Algorithm
 11. [ ] Knapsack Problem 
 12. [ ] Knuth-Morris-Pratt(KMP) Algorithm
 13. [ ] Prim's Algorithm
